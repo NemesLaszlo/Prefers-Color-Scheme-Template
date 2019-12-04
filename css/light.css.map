@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,KAAK,CAAC;EACJ,OAAO,CAAA,MAAC;EACR,kBAAkB,CAAA,mBAAC;EACnB,UAAU,CAAA,mBAAC;CACZ",
+    "sources": [
+        "light.scss"
+    ],
+    "names": [],
+    "file": "light.css"
+}
